@@ -1,11 +1,11 @@
 # Hey, I'm André P. Kallehauge 👋
 
-And welcome to the vibrant tapestry of public coding persona 🤓
+And welcome to the vibrant tapestry of my public coding persona 🤓
 
 At heart, I’m a problem-solver and a lifelong learner. What began as tinkering and coding has taken me through different corners of the tech world, including:
 
-- **Partner & Technical Director** – led technical vision and delivery at a agency that, at the time of my exit, had earned two Gazelle awards in its first years of eligibility
-- **Product & Engineering Lead** – steering vision and technical direction for products and cross-continental teams at Automattic Inc
+- **Partner & Technical Director** – led technical direction and delivery at an agency that, at the time of my exit, had earned two Gazelle awards in its first years of eligibility
+- **Product & Engineering Lead** – steering vision, monetization, and technical direction for products and cross-continental teams at Automattic Inc
 - **Strategic Partnership Engineer** – built licensing and unified billing systems, adapted internal product APIs into partner‑ready integrations, and guided technical implementations, powering security products for hundreds of thousands of websites
 - **Conference and meetup organizer** (and speaker)
 
@@ -26,4 +26,4 @@ _Aside: it also introduces a new "trash system" that moves branches from `refs/h
 
 My involvement in open source is mostly from working directly with a tool - whether professionally or personally - and then submitting fixes, improvements, and translations when I see an opportunity to make things better.
 
-You’ll find my contributions in [Danish translations for WordPress](https://make.wordpress.org/polyglots/teams/?locale=da_DK), as well as code contributions to [Drupal core](https://www.drupal.org/u/kallehauge), [Drupal modules](https://www.drupal.org/u/kallehauge), [Classy theme that launched with Drupal 8](https://www.drupal.org/project/classy), [Gutenberg – the new WordPress editor](http://github.com/wordpress/gutenberg/), [Jetpack](https://github.com/automattic/jetpack), [Jetpack CRM](https://github.com/automattic/jetpack-crm), [WooCommerce](https://github.com/woocommerce/woocommerce), [WooCommerce Shipping](https://woocommerce.com/woocommerce-shipping/), [WooCommerce Tax](https://woocommerce.com/products/tax/), [ElasticPress](https://github.com/10up/ElasticPress) (Elasticsearch), and other places across the internet where I’ve stumbled across something worth fixing or improving.
+You'll find my contributions in [Danish translations for WordPress](https://make.wordpress.org/polyglots/teams/?locale=da_DK), as well as code contributions to [Drupal core](https://www.drupal.org/u/kallehauge), [Drupal modules](https://www.drupal.org/u/kallehauge), [Classy theme that launched with Drupal 8](https://www.drupal.org/project/classy), [Gutenberg – the new WordPress editor](http://github.com/wordpress/gutenberg/), [Jetpack](https://github.com/automattic/jetpack), [Jetpack CRM](https://github.com/automattic/jetpack-crm), [WooCommerce](https://github.com/woocommerce/woocommerce), [WooCommerce Shipping](https://woocommerce.com/woocommerce-shipping/), [WooCommerce Tax](https://woocommerce.com/products/tax/), [ElasticPress](https://github.com/10up/ElasticPress) (Elasticsearch), and other places across the internet where I’ve stumbled across something worth fixing or improving.
