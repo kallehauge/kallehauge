@@ -19,7 +19,7 @@ So! `git rake` provides users with an easier way to prune branches that would ot
 _Aside: it also introduces a new "trash system" that moves branches from `refs/heads/*` to a custom `refs/rake-trash/*` namespace. This allows you to restore branches later on, if you regret "trashing" them._
 
 <picture >
- <img alt="Git Rake TUI: Visual demo if how bulk operations work" src="https://raw.githubusercontent.com/kallehauge/git-rake/main/docs/assets/demo.gif">
+ <img alt="Git Rake TUI: Visual demo if how bulk operations work" src="https://raw.githubusercontent.com/kallehauge/git-rake/main/docs/assets/demo.gif?v=2">
 </picture>
 
 ## Open Source
